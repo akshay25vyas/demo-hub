@@ -1,0 +1,8 @@
+RANDOM_SEED: 1 # for reproducibility
+
+OBJ_DETECTION:
+  METHOD: 'GroundingDINO'
+  ARXIV_LINK: "https://arxiv.org/abs/2303.05499"
+  BOX_THRESHOLD: 0.5
+  TEXT_THRESHOLD: 0.5
+  OBJECTS: ["chocolate","cinnamon","cocoa","coffee_grinder","coffee_mug","cutting_board","dental_floss","electric_kettle","filter_cone_dripper","fork","honey","kitchen_scale","liquid_measuring_cup","nut_butter","nutella","plate","quick-cook_oats","raisins","scissors","small_mixing_bowl","spoon","tea_bag","thermometer","toothpicks","tortilla","water_cup"]

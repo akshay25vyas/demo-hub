@@ -1,0 +1,9 @@
+[submodule "ptg-2023/utils/submodules/Proto-CLIP"]
+	path = ptg-2023/utils/submodules/Proto-CLIP
+	url = https://github.com/IRVLUTD/Proto-CLIP.git
+[submodule "ptg-2023/utils/submodules/GroundingDINO"]
+	path = ptg-2023/utils/submodules/GroundingDINO
+	url = https://github.com/IDEA-Research/GroundingDINO
+[submodule "ptg-2023/utils/submodules/segment-anything"]
+	path = ptg-2023/utils/submodules/segment-anything
+	url = https://github.com/facebookresearch/segment-anything.git
